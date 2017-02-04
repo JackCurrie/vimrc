@@ -4,7 +4,7 @@ So I may have my .vimrc, wherever I may be.
 
 ## How to use
 
-1. Clone this repo to the root directoy of the system 
+1. Clone this repo to the root directoy of the system. Then take the actual .vimrc file and place it in root.
 
 
 2. Install vundle 
