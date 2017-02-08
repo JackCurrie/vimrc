@@ -57,7 +57,7 @@ filetype plugin indent on    " required
 nnoremap <Tab> <c-w>w
 nnoremap <bs> <c-w>W
 
-" Flame ass colorscheme
+" Colorscheme
 set background=dark 
 colorscheme elflord
 syntax on
